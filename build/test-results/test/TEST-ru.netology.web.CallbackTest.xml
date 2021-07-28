@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.web.CallbackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-28T14:05:25" hostname="DESKTOP-T09A42Q" time="6.487">
+<testsuite name="ru.netology.web.CallbackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-28T18:31:09" hostname="DESKTOP-T09A42Q" time="6.935">
   <properties/>
-  <testcase name="shouldRequestWithoutName()" classname="ru.netology.web.CallbackTest" time="3.774"/>
-  <testcase name="shouldRequestNoAgreement()" classname="ru.netology.web.CallbackTest" time="0.798"/>
-  <testcase name="shouldRequestIncorrectPhone()" classname="ru.netology.web.CallbackTest" time="0.932"/>
-  <testcase name="shouldRequestTest()" classname="ru.netology.web.CallbackTest" time="0.978"/>
+  <testcase name="shouldRequestWithoutName()" classname="ru.netology.web.CallbackTest" time="4.129"/>
+  <testcase name="shouldRequestNoAgreement()" classname="ru.netology.web.CallbackTest" time="0.876"/>
+  <testcase name="shouldRequestIncorrectPhone()" classname="ru.netology.web.CallbackTest" time="1.001"/>
+  <testcase name="shouldRequestTest()" classname="ru.netology.web.CallbackTest" time="0.922"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 48329
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 48845
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-июл. 28, 2021 5:05:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+июл. 28, 2021 9:31:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
